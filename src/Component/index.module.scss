@@ -1,0 +1,266 @@
+.mainHeader{
+    display: flex;
+    span{
+margin-left: 20px;
+margin-top: 23px;
+ font-family: "Montserrat";
+font-size: 28px;
+font-weight: 600;
+line-height: 34px;
+letter-spacing: 0em;
+    }
+    div{
+        margin-left: 660px;
+        margin-top: 18px;
+    }
+        button{
+            height: 44px;
+width: 184px;
+border-radius: 10px;
+ font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #fff;
+        }  
+}
+.webbtn{
+    background-color: #1C1D39;
+    
+    border: 1px solid #00C88C ;
+}
+.btnStyle{
+    margin-left: 10px;
+    background-color: #00C88C;
+}
+.containerStyle{
+    background-color: black;
+}
+.container{
+display: flex;
+justify-content: space-around;
+
+}
+header{
+height: 80px;
+background: #1C1D39;
+color: #fff;
+}
+.img{
+width: 110px;
+height: 50px;
+box-sizing: border-box;
+margin-left: 23px;
+margin-top: 10px;
+height: 40px;
+}
+.secondContainer{
+    margin-top: 54px;
+height: 234px;
+width: 572px;
+left: 86px;
+top: 134px;
+border-radius: nullpx;
+}
+.containerContent{
+    font-family: Poppins;
+color: #fff;
+ span{
+font-size: 52px;
+font-weight: 600;
+line-height: 78px;
+letter-spacing: 0em;
+text-align: left;
+}
+p{  
+font-size: 26px;
+font-weight: 400;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: left;
+}
+}
+.containerBox{   
+display: flex;
+justify-content: space-around;
+margin-top: 54px;
+span{
+    width: 199px;
+    height: 33px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #FFFFFF;
+    margin-top: 11px;
+    margin-left: 16px;
+}
+p{
+    height: 48px;
+    margin-left: 16px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 48px;
+    color: #00C88C;
+    margin-top: -5px;
+}
+}
+.box{
+width: 279px;
+height: 104px;
+background: #1C1D39;
+box-shadow: 5px 5px 6px -19px #FFFFFF;
+margin-left: 15px;
+}
+.box1{
+width: 292px;
+height: 104px;
+background: #1C1D39;
+box-shadow: 5px 5px 6px -19px #FFFFFF;
+border-radius: 10px 0px 0px 0px;
+margin-left: 10px;
+}
+.containerBox1{
+    margin-top: 20px;
+    margin-left: 10px;
+width: 598px;
+height: 641px;
+background: #1C1D39;
+box-shadow: 5px 5px 6px -19px #FFFFFF;
+border-radius: 0px 0px 10px 10px;
+}
+.containerBox1{
+    span{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-size: 22px;
+        line-height: 33px;  
+    }
+}
+.boxcontent{
+    span{ 
+font-weight: 400;
+color: rgba(255, 255, 255, 0.8);
+margin-left: 26px;
+padding-bottom: 340px;
+    }
+}
+.boxcontent1{
+    span{
+font-weight: 500;
+color: #FFFFFF;
+margin-left: 161px;
+    }
+}
+.conbox{
+    display: flex;
+    padding: 26px 0px;
+}
+.poolstyle{
+    margin-left: 26px;
+    span{  
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.8);
+    }
+  }
+.progressbar {
+    margin-top: 10px;
+    background: rgba(217, 217, 217, 0.2);
+    border-radius: 13px;
+    padding: 3px;
+    width: 510px;
+height: 27px;
+text-align: center;
+  }
+  .progressbar>div {
+width: 292px;
+height: 27px;
+background: #00C88C;
+border-radius: 50px 0px 0px 50px;
+  }
+  .box2{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .boxcontent2{
+width: 360px;
+height: 30px;
+background: rgba(217, 217, 217, 0.2);
+color: white;
+padding: 10px 10px 0px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+  }
+  .boxcontent3{
+    width: 112px;
+height: 30px;
+padding: 10px 10px 0px;
+text-align: center;
+background: #FFFFFF;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+  }
+  .spancontent{
+    margin: 20px;
+    margin-left: 23px;
+    span{
+width: 187px;
+height: 33px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.8);
+    }
+  }
+  .btnContent{
+    margin-left: 19px;
+    margin-top: 44px;
+    button{
+width: 258px;
+height: 37px;
+background: #F6FFFC;
+border-radius: 10px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+margin-left: 10px;
+    }
+  }
+  .btnContent1{
+    margin-left: 26px;
+    margin-top: 18px;
+    button{
+width: 526px;
+height: 37px;
+background: #FF0000;
+border-radius: 10px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+color: #fff;
+    }
+  }
+  
